@@ -17,3 +17,6 @@ no more description.
 
 note:
 This AI Project / Public access for limited time / limitless access for contribute
+
+also you can find some docs in dpl ideas part:
+https://github.com/Dayana-World/Dayana-Python-Lab/tree/main/Dayana%20python%20lab/4_idea_documention/0_dayana_nostradamus
